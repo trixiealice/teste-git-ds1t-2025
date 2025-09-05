@@ -12,3 +12,10 @@ box-sizing: border-box;
 
 }
 
+.circulo {
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    border-radius: 50%;
+
+}
